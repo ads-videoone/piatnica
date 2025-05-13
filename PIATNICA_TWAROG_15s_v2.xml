@@ -1,0 +1,35 @@
+
+<VAST version="3.0">
+  <Ad id="mm_sample-ad">
+    <InLine>
+      <AdSystem version="1.0">MM-System</AdSystem>
+      <AdTitle>PIATNICA_TWAROG_15s_v2</AdTitle>
+      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B23861334.421205159;dc_trk_aid=613804062;dc_trk_cid=234999767;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?]]></Impression>
+
+      <Creatives>
+        <Creative sequence="1" id="video1">
+          <Linear>
+            <Duration>00:00:15</Duration>
+
+            <TrackingEvents>
+              <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B23861334.421205159;dc_trk_aid=613804062;dc_trk_cid=235037926;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?]]></Tracking>
+            </TrackingEvents>
+
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://piatnica.com.pl/produkty/twarogi-i-mascarpone/?utm_source=ai_video&utm_medium=cpm&utm_campaign=FM_Twarogi_2025]]></ClickThrough>
+              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B23861334.421205159;dc_trk_aid=613804062;dc_trk_cid=234999767;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1]]></ClickTracking>
+            </VideoClicks>
+
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
+                <![CDATA[https://videoone.pl/panel/piatnica/PIATNICA_TWAROG_15s_v2.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+
+          </Linear>
+        </Creative>
+      </Creatives>
+
+    </InLine>
+  </Ad>
+</VAST>
